@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GoodVibe",
+    "slug": "GoodVibe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GoodVibe"
+}
